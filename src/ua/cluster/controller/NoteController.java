@@ -7,8 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 
 public class NoteController {
-    public NoteController() {
-    }
+
 
 
     public static void ShortDate(ArrayList<Note> notes){
